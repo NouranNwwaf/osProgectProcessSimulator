@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\noran\OneDrive\سطح المكتب\testproject\osProject\osProject\Source.cpp(82,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\noran\OneDrive\سطح المكتب\testproject\osProject\osProject\Source.cpp(142,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  osProject.vcxproj -> C:\Users\noran\OneDrive\سطح المكتب\testproject\osProject\x64\Debug\osProject.exe
